@@ -1,4 +1,3 @@
-# gemoku
 # Gomoku · Play Against AI, Real Challenge
 
 > A game of Gomoku on your phone. Your opponent is the AI. No internet needed—start anytime.
