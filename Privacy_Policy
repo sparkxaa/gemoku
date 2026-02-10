@@ -1,0 +1,40 @@
+# Privacy Policy for Gomoku
+
+**Last updated:** [February 10, 2026]
+
+## Overview
+
+Gomoku ("the App") is a single-player board game that runs on your device. This privacy policy explains what data the App uses and where it is stored.
+
+## Data We Collect
+
+**We do not collect any personal data.** The App does not require an account, and we do not collect your name, email, or any other identifying information.
+
+## Data Stored on Your Device (Local Only)
+
+The App may store the following data **only on your device** (using your device’s local storage):
+
+- Your best score (fewest moves to win)
+- Settings such as: sound on/off, vibration on/off, language (e.g. English / 中文)
+
+This data is **not** sent to our servers or any third party. It stays on your device and can be removed by uninstalling the App or clearing the App’s data.
+
+## No Account / No Cloud
+
+You do not need to create an account or sign in. There is no cloud sync. All gameplay and AI run entirely on your device.
+
+## Third-Party Services
+
+The App does not use analytics, advertising, or other third-party SDKs that collect data. The only third-party component used is the Flutter framework and standard platform libraries for running the App on your device.
+
+## Children’s Privacy
+
+The App does not knowingly collect any personal information from anyone, including children. The App is suitable for all ages in terms of data use.
+
+## Changes to This Policy
+
+We may update this privacy policy from time to time. The "Last updated" date at the top will be revised when we do. Continued use of the App after changes means you accept the updated policy.
+
+## Contact
+
+If you have questions about this privacy policy or the App’s data practices, please contact us at: [请填写你的联系邮箱或网址]
